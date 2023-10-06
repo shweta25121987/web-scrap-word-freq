@@ -1,0 +1,6 @@
+Latest articles in the Python section:
+1. Python 3.12.0 release candidate 3 now available
+2. Announcing Python Software Foundation Fellow Members for Q2 2023! 🎉
+3. Python 3.12.0 release candidate 2 now available
+4. The Python Software Foundation has been authorized by the CVE Program as a CVE Numbering Authority (CNA)
+5. Python 3.11.5, 3.10.13, 3.9.18, and 3.8.18 is now available
